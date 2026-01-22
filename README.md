@@ -33,7 +33,7 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
 | Tower Defense | Escape Room | School Finder |
 |--------------|------------|---------------|
 | Strategy game prototype | Puzzle-based experience | Web app for students |
-| [Demo](#) • [Repo](https://github.com/mazijoni/escape_room) | [Demo](#) • [Repo](#) | [Demo](#) • [Repo](#) |
+| [Demo](#) • [Repo]() | [Demo](https://github.com/mazijoni/escape_room/main/index.html) • [Repo](https://github.com/mazijoni/escape_room) | [Demo](#) • [Repo](#) |
 
 ---
 
