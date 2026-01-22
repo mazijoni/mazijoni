@@ -18,5 +18,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maze_Dev&show_icons=true&theme=dark" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Maze_Dev&theme=dark" />
+  <img src="[https://streak-stats.demolab.com?user=Maze_Dev&theme=dark]"/>
 </p>
