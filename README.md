@@ -43,7 +43,7 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mazijoni&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maze_Dev&theme=dark&hide_border=true" />
 </p>
 
 ---
