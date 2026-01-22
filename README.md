@@ -23,7 +23,7 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
 
 ## Skills & Tools
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mazijoni)](https://git.io/streak-stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,godot,blender,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
