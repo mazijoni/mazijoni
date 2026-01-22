@@ -42,10 +42,6 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
   <img src="https://github-readme-stats.vercel.app/api?username=mazijoni&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
-<p href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mazijoni&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## Contact & Links
