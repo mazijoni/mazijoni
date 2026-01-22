@@ -42,6 +42,7 @@ Most projects are experiments or learning-focused — feedback is always welcome
 - Combine storytelling, visuals, and gameplay
 - Create things that feel unique and memorable
 
+- python
 ---
 
 ## 📫 Contact
