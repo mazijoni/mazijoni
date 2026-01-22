@@ -63,5 +63,5 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
 ---
 
 <p align="center">
-  © 2025 Maze_Development — No rights reserved.
+  Ø 2025 Maze_Development — No rights reserved.
 </p>
