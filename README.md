@@ -51,6 +51,9 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
   <a href="https://tiktok.com/@maze_development">
     <img src="https://img.shields.io/badge/TikTok-0a0a0a?style=for-the-badge&logo=tiktok&logoColor=c772fe" />
   </a>
+  <a href="https://maze-dev.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-0a0a0a?style=for-the-badge&logo=itchdotio&logoColor=c772fe" />
+  </a>
 </p>
 
 ---
