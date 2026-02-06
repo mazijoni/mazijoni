@@ -23,7 +23,7 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
 
 ## Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,python,go,rust,godot,unity,unreal,blender,git,linux,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,python,threejs,rust,godot,unity,unreal,blender,git,linux,idea,vscode&theme=dark" />
 </p>
 
 ---
