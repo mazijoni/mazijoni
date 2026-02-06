@@ -3,13 +3,10 @@
   <b>Developer • Game Creator • Animator</b><br>
   Dark UI • Interactive Systems • Creative Tech
 </p>
-### Skills
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mazijoni&color=8b5cf6&style=flat" />
 </p>
-- Unity
-- Unreal Engine
 
 ---
 
