@@ -36,14 +36,7 @@ I enjoy combining logic, visuals, and motion to build things that feel polished 
 | Tower Defense | Escape Room | School Finder |
 |--------------|------------|---------------|
 | Strategy game prototype | Puzzle-based experience | Web app for students |
-| [Demo](#) • [Repo](#) | [Demo](#) • [Repo](#) | [Demo](#) • [Repo](#) |
-
----
-
-## GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazijoni&show_icons=true&theme=dark&hide_border=true" />
-</p>
+| [Demo](https://mazijoni.github.io/fordypning/index.html) • [Repo](https://github.com/mazijoni/fordypning) | [Demo](https://mazijoni.github.io/escape_room/index.html) • [Repo](https://github.com/mazijoni/escape_room) | [Demo](https://mazijoni.github.io/schools-web/index.html) • [Repo](https://github.com/mazijoni/schools-web) |
 
 ---
 
